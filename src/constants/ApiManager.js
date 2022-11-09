@@ -1,0 +1,1 @@
+export const ApiManager = 'http://159.89.28.140:7101';
